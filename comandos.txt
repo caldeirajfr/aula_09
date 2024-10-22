@@ -1,0 +1,7 @@
+PASSOS:
+git init
+git add .
+git commit -m "mensagem"
+git branch -M main
+git remote add origin https://github.com/caldeirajfr/aula_09
+git push -u origin main
